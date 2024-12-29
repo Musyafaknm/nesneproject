@@ -1,0 +1,6 @@
+g++ battleship.cpp -o battleship
+
+
+
+battleship
+
